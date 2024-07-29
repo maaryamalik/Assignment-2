@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "115253356128",
+    "firebase_url": "https://landingpage-fafbf-default-rtdb.firebaseio.com",
+    "project_id": "landingpage-fafbf",
+    "storage_bucket": "landingpage-fafbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115253356128:android:d34f19dd9f77b3b0538505",
+        "android_client_info": {
+          "package_name": "com.example.landingpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1t3aTgG67XY8JaZwX6RSzGMcLMRM7mB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

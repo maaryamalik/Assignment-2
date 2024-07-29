@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/optfav"
+    android:title="Favourite"
+    app:showAsAction="collapseActionView"
+    android:icon="@drawable/favoritesp">
+
+</item>
+    <item
+        android:id="@+id/opt1"
+        android:title="Home"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/baseline_add_home_24">
+    </item>
+
+    <item
+        android:id="@+id/opt2"
+        android:title="Services"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/deignservice"/>
+    <item
+        android:id="@+id/opt_logout"
+        android:title="Logout"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/logout"/>
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="app:showAsAction=&quot;collapseActionView&quot;&#xA;    android:icon=&quot;@drawable/favoritesp&quot;>&#xA;&#xA;&lt;/item>&#xA;    &lt;item&#xA;        android:id=&quot;@+id/opt1&quot;&#xA;        android:title=&quot;Home&quot;&#xA;        app:showAsAction=&quot;collapseActionView&quot;&#xA;        android:icon=&quot;@drawable/baseline" />
+</menu>
